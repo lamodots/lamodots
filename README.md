@@ -1,7 +1,7 @@
 I’m a Front-End Web Developer. I love to create and build websites which are mobile-first ready, fully responsive, minimal, SEO friendly and at the same time attractive and user-friendly for individuals, startups, businesses etc. I also have some fairly basic knowledge of FIGMA for UI/UX Design , Back-end technologies like PHP, SQL and Node.js . I'm always motivated and have the desire to learn more.
 
-My front end stack are :
-HTML 5
+#My front end stack are :
+#HTML 5
 CSS3
 JavaScript
 JQuery
