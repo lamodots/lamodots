@@ -8,10 +8,11 @@ JQuery
 TailwindCss
 Bootstrap
 SASS
-Git and Github for version control
-React.js
-Vue.js
-Rest APIs
+Git and Github for version control,
+React.js,
+Vue.js,
+Rest APIs,
+BACK-END STACK
 PHP
 SQL
 Node.js
