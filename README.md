@@ -13,7 +13,7 @@ Git and Github for version control,
 React.js,
 Vue.js,
 Rest APIs,
-# BACK-END STACK
+# Back End STACK
 PHP,
 SQL,
 Node.js
