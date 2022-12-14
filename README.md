@@ -5,6 +5,7 @@ I’m a Front-End Web Developer. I love to create and build websites which are m
 HTML 5,
 CSS3,
 JavaScript,
+TypeScript
 JQuery,
 TailwindCss,
 Bootstrap,
@@ -17,6 +18,7 @@ Rest APIs,
 # Back End STACK
 PHP,
 SQL,
+TypeScript,
 Node.js
 
 # Connect with me:
