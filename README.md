@@ -11,6 +11,7 @@ Bootstrap,
 SASS,
 Git and Github for version control,
 React.js,
+Next.js
 Vue.js,
 Rest APIs,
 # Back End STACK
