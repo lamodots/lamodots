@@ -1,5 +1,5 @@
 # About me
-I’m a Front-End Web Developer. I love to create and build websites which are mobile-first ready, fully responsive, minimal, SEO friendly and at the same time attractive and user-friendly for individuals, startups, businesses etc. I also have some fairly basic knowledge of FIGMA for UI/UX Design , Back-end technologies like PHP, SQL and Node.js . I'm always motivated and have the desire to learn more.
+Fullstack Software Engineer dedicated to developing intuitive, impactful products that elevate user experiences and drive business growth. Proficient in a wide array of front-end and back-end technologies, adept at leveraging collaborative tools like GitHub and Jira to deliver scalable solutions that exceed expectations.
 
 # My Front End stack are :
 HTML 5,
@@ -11,15 +11,17 @@ TailwindCss,
 Bootstrap,
 SASS,
 Git and Github for version control,
-React.js,
-Next.js
-Vue.js,
+Reactjs,
+Nextjs
+Vuejs,
 Rest APIs,
 # Back End STACK
 PHP,
 SQL,
 TypeScript,
 Node.js
+Express
+Mongo
 
 # Connect with me:
 linkedIn:https://www.linkedin.com/in/lamodot/
