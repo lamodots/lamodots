@@ -3,7 +3,7 @@
 <h3 align="left">Fullstack Software Engineer dedicated to developing intuitive, impactful products that elevate user experiences and drive business growth. Proficient in a wide array of front-end and back-end technologies, adept at leveraging collaborative tools like GitHub and Jira to deliver scalable solutions that exceed expectations.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamodots&label=Profile%20views&color=0e75b6&style=flat" alt="lamodots" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamodots&label=Profile%20views&color=0e75b6&style=flat" alt="lamodot" /> </p>
 
 - 🔭 I’m currently working on [Devshadows](https://github.com/lamodots/devshadows)
 
